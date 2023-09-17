@@ -2,7 +2,7 @@
  * @Description:
  * @Author: yusunqi
  * @Date: 2023-09-16 18:31:30
- * @LastEditTime: 2023-09-17 09:27:10
+ * @LastEditTime: 2023-09-17 11:14:11
  * Copyright (c) 2023 by yusunqi, All Rights Reserved.
  */
 import { resolve } from 'path'
@@ -13,7 +13,8 @@ export default defineConfig({
 	build: {
 		lib: {
 			entry: resolve(__dirname, 'src/index.ts'),
-			name: 'index'
+			name: 'index',
+			fileName: 'index'
 		},
 		rollupOptions: {
 			external: ['vue'],
