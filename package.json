@@ -2,7 +2,7 @@
 	"name": "ysq-tool-lib",
 	"version": "1.0.0-1",
 	"description": "ysq-tool-lib",
-	"main": "dist/tool.mjs",
+	"main": "dist/ysq-tool-lib.mjs",
 	"typings": "dist/index.d.ts",
 	"publishConfig": {
 		"access": "public",
