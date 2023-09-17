@@ -1,5 +1,5 @@
 {
-	"name": "@ysq/tool-lib",
+	"name": "ysq-tool-lib",
 	"version": "1.0.0-0",
 	"description": "ysq-tool-lib",
 	"main": "dist/tool.mjs",
