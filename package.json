@@ -6,7 +6,7 @@
 	"typings": "dist/index.d.ts",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aysuqi/ysq-tool.git"
+		"url": "https://github.com/aysuqi/ysq-tool-lib.git"
 	},
 	"scripts": {
 		"dev": "vite",
