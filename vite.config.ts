@@ -2,7 +2,7 @@
  * @Description:
  * @Author: yusunqi
  * @Date: 2023-09-16 18:31:30
- * @LastEditTime: 2023-09-17 11:14:11
+ * @LastEditTime: 2023-09-17 11:50:27
  * Copyright (c) 2023 by yusunqi, All Rights Reserved.
  */
 import { resolve } from 'path'
@@ -25,5 +25,5 @@ export default defineConfig({
 			}
 		}
 	},
-	plugins: [dts()]
+	plugins: [dts({ rollupTypes: true })]
 })
