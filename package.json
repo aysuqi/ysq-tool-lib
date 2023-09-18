@@ -1,9 +1,10 @@
 {
 	"name": "ysq-tool-lib",
-	"version": "1.0.0-4",
+	"version": "1.0.0-5",
 	"description": "ysq-tool-lib",
 	"main": "dist/index.mjs",
 	"types": "dist/index.d.ts",
+	"files": ["dist"],
 	"publishConfig": {
 		"access": "public",
 		"registry": "https://registry.npmjs.org/"
