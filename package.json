@@ -1,6 +1,6 @@
 {
 	"name": "ysq-tool-lib",
-	"version": "1.0.0-3",
+	"version": "1.0.0-4",
 	"description": "ysq-tool-lib",
 	"main": "dist/index.mjs",
 	"types": "dist/index.d.ts",
